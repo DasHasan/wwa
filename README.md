@@ -7,3 +7,4 @@ https://experiments.withgoogle.com/ai/drum-machine/view/
 
 ## Science
 https://mathisonian.github.io/kde/
+https://www.cs.ryerson.ca/~aharley/vis/conv/
