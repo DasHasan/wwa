@@ -8,3 +8,6 @@ Witzige Webanwendungen
 ## Science
 - https://mathisonian.github.io/kde/
 - https://www.cs.ryerson.ca/~aharley/vis/conv/
+
+## Kotlin
+- https://github.com/vincent-pradeilles/kotlin-tips
